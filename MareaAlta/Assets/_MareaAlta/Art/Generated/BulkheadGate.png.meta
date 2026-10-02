@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 3803f0ad19a52ce418459fcda9c95690
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2636731391496319165
+    second: BulkheadGate_0
+  - first:
+      213: -8447131859999281833
+    second: BulkheadGate_1
+  - first:
+      213: 7426866720116325122
+    second: BulkheadGate_2
+  - first:
+      213: -238315375832744273
+    second: BulkheadGate_3
+  - first:
+      213: -4981557314825499425
+    second: BulkheadGate_4
+  - first:
+      213: 3893102315793645554
+    second: BulkheadGate_5
+  - first:
+      213: 8500695112862238582
+    second: BulkheadGate_6
+  - first:
+      213: -7303994550281813956
+    second: BulkheadGate_7
+  - first:
+      213: -4763139203524233695
+    second: BulkheadGate_8
+  - first:
+      213: 6621460687521577762
+    second: BulkheadGate_9
+  - first:
+      213: -2302941246305437125
+    second: BulkheadGate_10
+  - first:
+      213: -479797581346259811
+    second: BulkheadGate_11
+  - first:
+      213: 3655019124931688691
+    second: BulkheadGate_12
+  - first:
+      213: -1818686194100444092
+    second: BulkheadGate_13
+  - first:
+      213: 7083614609252078818
+    second: BulkheadGate_14
+  - first:
+      213: -3523032049485392749
+    second: BulkheadGate_15
+  - first:
+      213: -1416107097614148572
+    second: BulkheadGate_16
+  - first:
+      213: -1054136761147699920
+    second: BulkheadGate_17
+  - first:
+      213: -5571294587193873555
+    second: BulkheadGate_18
+  - first:
+      213: 1922871094856857806
+    second: BulkheadGate_19
+  - first:
+      213: -212744948423905247
+    second: BulkheadGate_20
+  - first:
+      213: 8457342610356070003
+    second: BulkheadGate_21
+  - first:
+      213: 6134846372513877427
+    second: BulkheadGate_22
+  - first:
+      213: -8574810713844710267
+    second: BulkheadGate_23
+  - first:
+      213: 2440487954210235814
+    second: BulkheadGate_24
+  - first:
+      213: 6402855997356591061
+    second: BulkheadGate_25
+  - first:
+      213: -3662254313764778956
+    second: BulkheadGate_26
+  - first:
+      213: 3011483195412573845
+    second: BulkheadGate_27
+  - first:
+      213: 6334612755387314852
+    second: BulkheadGate_28
+  - first:
+      213: 3454442020513499437
+    second: BulkheadGate_29
+  - first:
+      213: 2555610440313171793
+    second: BulkheadGate_30
+  - first:
+      213: 8561387170693015477
+    second: BulkheadGate_31
+  - first:
+      213: 5874255239006437051
+    second: BulkheadGate_32
+  - first:
+      213: -7420842829082128679
+    second: BulkheadGate_33
+  - first:
+      213: -7285184187484774315
+    second: BulkheadGate_34
+  - first:
+      213: 7642024805276502102
+    second: BulkheadGate_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BulkheadGate_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 896
+        height: 1532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34f8db9f4c2786bd0800000000000000
+      internalID: -2636731391496319165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1529
+        width: 42
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dabd10452c5ca80800000000000000
+      internalID: -8447131859999281833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_2
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1445
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b34b6cee7811760800000000000000
+      internalID: 7426866720116325122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_3
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1458
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faeb9f6ad6551bcf0800000000000000
+      internalID: -238315375832744273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_4
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1455
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcc39df304fddab0800000000000000
+      internalID: -4981557314825499425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_5
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1461
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff712ffde3170630800000000000000
+      internalID: 3893102315793645554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1058
+        width: 127
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6778d02aa2988f570800000000000000
+      internalID: 8500695112862238582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_7
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 1173
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30401d97aff2aa90800000000000000
+      internalID: -7303994550281813956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_8
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1055
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126733e612ee5edb0800000000000000
+      internalID: -4763139203524233695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_9
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 941
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bffedc96724eb50800000000000000
+      internalID: 6621460687521577762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 933
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a7e53532f4a00e0800000000000000
+      internalID: -2302941246305437125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 919
+        width: 53
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9cb3cf44aa6759f0800000000000000
+      internalID: -479797581346259811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 815
+        width: 41
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f8ffcc678c39b230800000000000000
+      internalID: 3655019124931688691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 657
+        width: 27
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4446cb2da8ab2c6e0800000000000000
+      internalID: -1818686194100444092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_14
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 767
+        width: 19
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4dc3ed4fd0e4260800000000000000
+      internalID: 7083614609252078818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 471
+        width: 33
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3945b1e440dab1fc0800000000000000
+      internalID: -3523032049485392749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_16
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 537
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c9ccaf81af85ce0800000000000000
+      internalID: -1416107097614148572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_17
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 546
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d4c176334fe51f0800000000000000
+      internalID: -1054136761147699920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_18
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 513
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ba0474719cea2b0800000000000000
+      internalID: -5571294587193873555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_19
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 437
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec83fcda2196faa10800000000000000
+      internalID: 1922871094856857806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_20
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 453
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1203f69b89d2c0df0800000000000000
+      internalID: -212744948423905247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 407
+        width: 61
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3766c029b448e5570800000000000000
+      internalID: 8457342610356070003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_22
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 403
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd8841a54a532550800000000000000
+      internalID: 6134846372513877427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_23
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 415
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58482194617200980800000000000000
+      internalID: -8574810713844710267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_24
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 429
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a522553dda5ed120800000000000000
+      internalID: 2440487954210235814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 199
+        width: 77
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d74b661b938bd850800000000000000
+      internalID: 6402855997356591061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_26
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 259
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43c88e6ea1f0d2dc0800000000000000
+      internalID: -3662254313764778956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_27
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 209
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59eef9db200fac920800000000000000
+      internalID: 3011483195412573845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 33
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2f4822db019e750800000000000000
+      internalID: 6334612755387314852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_29
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29c3e917b4a0ff20800000000000000
+      internalID: 3454442020513499437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_30
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 7
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f652fb72a577320800000000000000
+      internalID: 2555610440313171793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_31
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 53
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b76eb5854820d670800000000000000
+      internalID: 8561387170693015477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_32
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 53
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeb4f8440c858150800000000000000
+      internalID: 5874255239006437051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 23
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de0e86a3ced30990800000000000000
+      internalID: -7420842829082128679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_34
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 15
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5506dad7493d5ea90800000000000000
+      internalID: -7285184187484774315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BulkheadGate_35
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 15
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658ca3b321ded0a60800000000000000
+      internalID: 7642024805276502102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BulkheadGate_0: -2636731391496319165
+      BulkheadGate_1: -8447131859999281833
+      BulkheadGate_10: -2302941246305437125
+      BulkheadGate_11: -479797581346259811
+      BulkheadGate_12: 3655019124931688691
+      BulkheadGate_13: -1818686194100444092
+      BulkheadGate_14: 7083614609252078818
+      BulkheadGate_15: -3523032049485392749
+      BulkheadGate_16: -1416107097614148572
+      BulkheadGate_17: -1054136761147699920
+      BulkheadGate_18: -5571294587193873555
+      BulkheadGate_19: 1922871094856857806
+      BulkheadGate_2: 7426866720116325122
+      BulkheadGate_20: -212744948423905247
+      BulkheadGate_21: 8457342610356070003
+      BulkheadGate_22: 6134846372513877427
+      BulkheadGate_23: -8574810713844710267
+      BulkheadGate_24: 2440487954210235814
+      BulkheadGate_25: 6402855997356591061
+      BulkheadGate_26: -3662254313764778956
+      BulkheadGate_27: 3011483195412573845
+      BulkheadGate_28: 6334612755387314852
+      BulkheadGate_29: 3454442020513499437
+      BulkheadGate_3: -238315375832744273
+      BulkheadGate_30: 2555610440313171793
+      BulkheadGate_31: 8561387170693015477
+      BulkheadGate_32: 5874255239006437051
+      BulkheadGate_33: -7420842829082128679
+      BulkheadGate_34: -7285184187484774315
+      BulkheadGate_35: 7642024805276502102
+      BulkheadGate_4: -4981557314825499425
+      BulkheadGate_5: 3893102315793645554
+      BulkheadGate_6: 8500695112862238582
+      BulkheadGate_7: -7303994550281813956
+      BulkheadGate_8: -4763139203524233695
+      BulkheadGate_9: 6621460687521577762
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

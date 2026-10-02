@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: a73e22905a4b89f488a6d45d8a813337
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 415517303017842967
+    second: EnergyTurbine_0
+  - first:
+      213: -1824967759608761194
+    second: EnergyTurbine_1
+  - first:
+      213: -2213092436917479205
+    second: EnergyTurbine_2
+  - first:
+      213: 4322215452571630739
+    second: EnergyTurbine_3
+  - first:
+      213: -4526352597533008224
+    second: EnergyTurbine_4
+  - first:
+      213: 7522334146477783813
+    second: EnergyTurbine_5
+  - first:
+      213: 8433939704465006552
+    second: EnergyTurbine_6
+  - first:
+      213: 5997142788189627671
+    second: EnergyTurbine_7
+  - first:
+      213: 9134149144342202256
+    second: EnergyTurbine_8
+  - first:
+      213: -8676380821297110721
+    second: EnergyTurbine_9
+  - first:
+      213: -2640165384107103298
+    second: EnergyTurbine_10
+  - first:
+      213: 8113305309499180984
+    second: EnergyTurbine_11
+  - first:
+      213: 5153127106637080407
+    second: EnergyTurbine_12
+  - first:
+      213: -1607110938263071286
+    second: EnergyTurbine_13
+  - first:
+      213: 4457388811186979674
+    second: EnergyTurbine_14
+  - first:
+      213: 1245209471099479312
+    second: EnergyTurbine_15
+  - first:
+      213: -6976627130446221718
+    second: EnergyTurbine_16
+  - first:
+      213: 7447654131542459940
+    second: EnergyTurbine_17
+  - first:
+      213: 5937907989433328915
+    second: EnergyTurbine_18
+  - first:
+      213: 5309736041280701054
+    second: EnergyTurbine_19
+  - first:
+      213: 4132715378138717179
+    second: EnergyTurbine_20
+  - first:
+      213: 7115160179596282456
+    second: EnergyTurbine_21
+  - first:
+      213: -6305737269783366651
+    second: EnergyTurbine_22
+  - first:
+      213: -6490541664345155533
+    second: EnergyTurbine_23
+  - first:
+      213: -8439550169193962506
+    second: EnergyTurbine_24
+  - first:
+      213: -664279871321822224
+    second: EnergyTurbine_25
+  - first:
+      213: -378000739540178709
+    second: EnergyTurbine_26
+  - first:
+      213: 6027349916158558560
+    second: EnergyTurbine_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: EnergyTurbine_0
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 1213
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719286c19c634c500800000000000000
+      internalID: 415517303017842967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_1
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1213
+        width: 47
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 694baf1ed796ca6e0800000000000000
+      internalID: -1824967759608761194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_2
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1217
+        width: 13
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd81e6277248941e0800000000000000
+      internalID: -2213092436917479205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1241
+        height: 1215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39c7c35dd089bfb30800000000000000
+      internalID: 4322215452571630739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_4
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1175
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aed0ef4b4a2f21c0800000000000000
+      internalID: -4526352597533008224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_5
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b799a1d03b46860800000000000000
+      internalID: 7522334146477783813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_6
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 1162
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df13bde97f5b0570800000000000000
+      internalID: 8433939704465006552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_7
+      rect:
+        serializedVersion: 2
+        x: 1053
+        y: 1165
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 715a65577912a3350800000000000000
+      internalID: 5997142788189627671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_8
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 1143
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09784f1804403ce70800000000000000
+      internalID: 9134149144342202256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_9
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1148
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31e29acc9d479780800000000000000
+      internalID: -8676380821297110721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_10
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 1136
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebb6304429f3c5bd0800000000000000
+      internalID: -2640165384107103298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_11
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1132
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b74dfe5130489070800000000000000
+      internalID: 8113305309499180984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_12
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 1116
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7572a811dc5938740800000000000000
+      internalID: 5153127106637080407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 238
+        width: 5
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac55f22dd1562b9e0800000000000000
+      internalID: -1607110938263071286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_14
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 134
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53c99ce183dbdd30800000000000000
+      internalID: 4457388811186979674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_15
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 79
+        width: 42
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01526d3aa6fd74110800000000000000
+      internalID: 1245209471099479312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_16
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 126
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e666fa69a0e2f90800000000000000
+      internalID: -6976627130446221718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_17
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 73
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4260f8829f16b5760800000000000000
+      internalID: 7447654131542459940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_18
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 79
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 315a0232bdfa76250800000000000000
+      internalID: 5937907989433328915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_19
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 47
+        width: 47
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7200af1cc8ffa940800000000000000
+      internalID: 5309736041280701054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_20
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 79
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb90c78dba5a5930800000000000000
+      internalID: 4132715378138717179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_21
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 87
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a47d05c702eb260800000000000000
+      internalID: 7115160179596282456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_22
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 63
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504fe93cc558d78a0800000000000000
+      internalID: -6305737269783366651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_23
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 49
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33895d0aeb6fce5a0800000000000000
+      internalID: -6490541664345155533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_24
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 53
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f32b15f5d1b0ea80800000000000000
+      internalID: -8439550169193962506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_25
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 49
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fbab6ef9f008c6f0800000000000000
+      internalID: -664279871321822224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_26
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 46
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be86fd2845211caf0800000000000000
+      internalID: -378000739540178709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: EnergyTurbine_27
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 14
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0618c9180d275a350800000000000000
+      internalID: 6027349916158558560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      EnergyTurbine_0: 415517303017842967
+      EnergyTurbine_1: -1824967759608761194
+      EnergyTurbine_10: -2640165384107103298
+      EnergyTurbine_11: 8113305309499180984
+      EnergyTurbine_12: 5153127106637080407
+      EnergyTurbine_13: -1607110938263071286
+      EnergyTurbine_14: 4457388811186979674
+      EnergyTurbine_15: 1245209471099479312
+      EnergyTurbine_16: -6976627130446221718
+      EnergyTurbine_17: 7447654131542459940
+      EnergyTurbine_18: 5937907989433328915
+      EnergyTurbine_19: 5309736041280701054
+      EnergyTurbine_2: -2213092436917479205
+      EnergyTurbine_20: 4132715378138717179
+      EnergyTurbine_21: 7115160179596282456
+      EnergyTurbine_22: -6305737269783366651
+      EnergyTurbine_23: -6490541664345155533
+      EnergyTurbine_24: -8439550169193962506
+      EnergyTurbine_25: -664279871321822224
+      EnergyTurbine_26: -378000739540178709
+      EnergyTurbine_27: 6027349916158558560
+      EnergyTurbine_3: 4322215452571630739
+      EnergyTurbine_4: -4526352597533008224
+      EnergyTurbine_5: 7522334146477783813
+      EnergyTurbine_6: 8433939704465006552
+      EnergyTurbine_7: 5997142788189627671
+      EnergyTurbine_8: 9134149144342202256
+      EnergyTurbine_9: -8676380821297110721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

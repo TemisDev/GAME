@@ -1,0 +1,1 @@
+Demo ampliada v2: tres fases completas, escalas persistentes y compuertas sincronizadas.
